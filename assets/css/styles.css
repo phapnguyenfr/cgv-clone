@@ -33,6 +33,7 @@ a {
   gap: 30px;
   padding-top: 10px;
   background-color: #fcfcf0;
+
   a {
     display: flex;
     align-items: center;
